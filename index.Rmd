@@ -1,5 +1,9 @@
 ---
-title: "My Website"
+title: "About me"
 ---
 
-Hello, Website!
+I am a senior a Appalachian State University studying Mathematics with a concentration in Business. I will be graduating in May 2019 and plan to start graduate studies in financial mathematics in the Fall. I am interested to starting graduate school at UNC Charlotte or North Carolina State University. Learn more about the program at NCSU [here](https://financial.math.ncsu.edu). After this I would love to be a financial analyst or something of similar nature. I am currently working on my senior honors thesis analyzing a small business in hopes to find recommendation that aid the growth of the business. 
+
+You can contact me at martinbl5@appstate.edu.
+
+[Click here](https://www.youtube.com/watch?v=n8S7HIvR_jo&t=5s) to see what competitive sport I grew up doing.
