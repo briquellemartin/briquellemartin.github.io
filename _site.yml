@@ -2,14 +2,17 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "My Website"
+  title: "Briquelle's Webpage"
   left:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "My Puppy"
+      href: emma.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/briquellemartin/datascience1repo/
 
 output:
   html_document:
-    theme: default
-    highlight: default
+    theme: simplex
+    highlight: kate
