@@ -1,5 +1,79 @@
 ---
-title: "John Doe's Resume"
+title: "Briquelle Martin"
 ---
+martinbl5@appstate.edu
 
-Resume content.
+Education
+---------
+
+* Bachelor of Science: Appalachian State University, Boone, NC
+    + Major: Mathematics with concentration in Business                                     
+    + May 2019
+* Departmental Honors Student
+* Chancellor’s List: Fall 2016, Spring 2017, Fall 2017, Spring 2018
+* Junior Marshall: May 2018
+
+
+Academic Research
+-----------------
+
+**Senior Honors Thesis** August 2018 - Present
+
+  * Appalachian State University: Boone, NC
+    + Topic: Small Business Analysis
+    + Independent research
+    + Implement informational pivot charts/tables using excel
+
+**Undergraduate Research Intern** May 2018 - July 2018
+  
+  * North Carolina A&T State University: Greensboro, NC
+    +	Team research in Data Science and Analytics
+    +	Topic: Adaptive Contact Epidemiology 
+    +	Analyzed big data 
+    +	Self-motivated work environment
+    +	Implemented graph network using Python
+    +	Full time
+
+
+Experience
+----------
+
+**Math Lab Tutor** January 2018- Present
+
+  * University Tutor Services: Boone, NC
+    *	Leadership role  
+    *	Assist students in various math courses
+    *	Part time
+
+
+**Assistant Manager** May 2017- Present
+  
+  * Pleasantries Boutique, Home, and Wine Shoppe: Taylorsville, NC
+    *	Calculate pricing for retail sales 
+    *	Provide exceptional customer service
+    *	Analyze current sales 
+    *	Part time 
+
+Skills
+------
+
+  *	Experience in Python
+  *	Experience in R Studio
+  *	Proficiency in Microsoft Word and Excel
+
+
+Clubs and Organizations
+-----------------------
+
+**Pi Mu Epsilon**- Math Honors Society
+  
+  * September 2018- Present
+  * Member
+
+**Gamma Iota Sigma**- Risk Management and Insurance Club
+  
+  * August 2016-August 2017
+  * Member
+
+
+

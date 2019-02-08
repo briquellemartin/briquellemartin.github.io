@@ -1,0 +1,18 @@
+---
+title: "My Puppy"
+---
+
+Below you can find my favorite dog. Emma is 2 years old and loves when I visit for the weekend. Enjoy!!
+
+
+<div id="bg">
+  <img src="IMG_3761.jpg" alt="">
+</div> 
+She will bring her toys on command.
+<div id="bg">
+  <img src="IMG_2952.JPG" alt="">
+</div> 
+This is her favorite pass time.
+<div id="bg">
+  <img src="IMG_4949.jpg" alt="">
+</div> 
