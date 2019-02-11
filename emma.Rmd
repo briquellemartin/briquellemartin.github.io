@@ -2,7 +2,7 @@
 title: "My Puppy"
 ---
 
-Below you can find my favorite dog. Emma is 2 years old and loves when I visit for the weekend. Enjoy!!
+Below you can find my favorite dog. Emma is 2 years old and loves when I visit for the weekend. Enjoy!
 
 
 <div id="bg">
